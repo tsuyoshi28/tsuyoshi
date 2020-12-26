@@ -1,0 +1,42 @@
+h1 {
+	color: rgb(161, 35, 35);
+	font-size: 20px;
+}
+
+h2 {
+	font-size: 20px;
+	color: darkgreen;
+}
+span {
+	color: rgb(190, 149, 34);
+}
+img {
+	max-width: 100%;
+	height: auto;
+}
+img {
+	border: none;
+	-ms-interpolation-mode: bicubic;
+}
+* {
+	line-height: 180%;
+	word-break: break-all;
+}
+#contentsWrapper {
+	margin: 0 auto;
+	width: 920px;
+	text-align: left;
+}
+body {
+	margin: 0 auto;
+	padding: 0px 0 0;
+	text-align: center;
+	background: #F6F6F6;
+	color: #515151;
+	font-family: Verdana,Arial,Helvetica,'meirio','メイリオ','Hiragino Maru Gothic Pro','ヒラギノ丸ゴ Pro W4',Osaka,'ＭＳ Ｐゴシック',sans-serif;
+}
+body {
+	font: 13px/1.231 arial,helvetica,clean,sans-serif;
+	*font-size: small;
+	*font: x-small;
+}
